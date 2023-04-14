@@ -2,33 +2,83 @@
   align-items: center;
   display: flex;
   justify-content: center;
-  margin-bottom: 7rem;
   font-size: 22px;
   padding-top: 0px;
-  margin-bottom: 50px;
+  margin-bottom: 45px;
+  background-color: white;
 }
 nav ul {
   padding: 10px;
   padding-top: 0;
   display: flex;
   justify-content: center;
-  position: fixed;
+  
 }
 nav ul li {
   display: flex;
   margin: 15px;
+  color:#0099ff;
+  flex-direction: column;
+  margin-left: 30px;
+
 }
 nav p {
-  margin-bottom: 7rem;
   font-size: 22px;
-  margin-bottom: 50px;
-  width: 100vh;
+  margin-bottom: 45px;
+  margin-left: 15px;
   margin-top: 40px;
   display: flex;
+  color:#0099ff;
+  flex-direction: column;
 }
 header {
   padding: 0px;
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: white;
+}
+body {
+  background-image: url('https://p1.pxfuel.com/preview/773/955/819/koala-marsupial-herbivore-arboreal-wildlife-australian.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+table{
+  border: none;
+}
+.imageWithTextRight{
+  padding: 45px;
+}
+.card-title{
+  display: flex;
+  justify-content: center;
+}
+
+/*
+
+*/
+
+.interestContainer {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-evenly;
+  
+}
+.intrestCard {
+  width: 350px;
+  background-color: #0099ff;
+  margin: 10px;
+  box-shadow: 0 0 15px black;
+  border-radius: 10px 10px 0 0;
+}
+.intrestCard:hover {
+  box-shadow: 0 0 35px black;
+  transition-duration: 300ms;
+  transform: scale(1.05);
+}
+.interestContainer {
+  max-width: 100vw;
+  max-height: 100vh;
+  margin-top: 75px;
 }
