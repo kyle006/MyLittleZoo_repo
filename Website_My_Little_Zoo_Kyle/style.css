@@ -68,21 +68,25 @@ footer{
 .gallery {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .card {
-  flex-basis: calc(33.33% - 20px);
-  margin-bottom: 20px;
-  border: 1px solid #ccc;
+  flex-basis: calc(33.33%);
+  border: 1px solid black;
   padding: 10px;
   text-align: center;
   box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+  background-color: #0099ff;
+  margin:0px 10px 20px 10px;
 }
 
 .card img {
   max-width: 100%;
   height: auto;
+}
+.link{
+  color: black;
 }
 
 /*
