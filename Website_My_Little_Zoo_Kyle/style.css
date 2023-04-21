@@ -27,9 +27,9 @@ nav ul li {
 }
 nav p {
   font-size: 22px;
-  margin-bottom: 45px;
+  margin-bottom: 25px;
   margin-left: 15px;
-  margin-top: 40px;
+  margin-top: 20px;
   display: flex;
   color:#0099ff;
   flex-direction: column;
@@ -77,7 +77,7 @@ footer{
   padding: 10px;
   text-align: center;
   box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
-  background-color: #0099ff;
+  background-color: #178bd9;
   margin:0px 10px 20px 10px;
 }
 
@@ -87,6 +87,11 @@ footer{
 }
 .link{
   color: black;
+  
+}
+.bild{
+  max-height: 400px;
+  max-width: 300px;
 }
 
 /*
