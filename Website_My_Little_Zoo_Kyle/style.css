@@ -41,12 +41,7 @@ header {
   justify-content: center;
   background-color: white;
 }
-body {
-  background-image: url('https://p1.pxfuel.com/preview/773/955/819/koala-marsupial-herbivore-arboreal-wildlife-australian.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-}
+
 table{
   border: none;
 }
@@ -94,6 +89,10 @@ footer{
   max-width: 300px;
 }
 
+.Animal-desc{
+  display: flex;
+  justify-content: center;
+}
 /*
 
 */
