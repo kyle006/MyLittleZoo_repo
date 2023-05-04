@@ -40,6 +40,7 @@ header {
   align-items: center;
   justify-content: center;
   background-color: white;
+  max-width: 100%;
 }
 
 table{
@@ -49,9 +50,12 @@ footer{
   background-color: white;
   display: flex;
   padding: 10px;
-  max-width: 100%;
-  margin-top: 25px;
+  min-width: 100%;
+  justify-content: center;
+  position: fixed;
+  bottom: 0;
 }
+
 .imageWithTextRight{
   padding: 45px;
 }
@@ -108,7 +112,7 @@ footer{
   display: flex;
   flex-flow: wrap;
   justify-content: space-evenly;
-  
+  margin-bottom: 100px;
 }
 .intrestCard {
   width: 350px;
