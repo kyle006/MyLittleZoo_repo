@@ -105,10 +105,11 @@ footer{
   width: 100%;
 }
 .bild-big{
-  height: 600px;
+  height: 700px;
   width: 100%;
+  background-size: cover;
 }
-.Koala-content{
+.tier-content{
   margin-bottom: 50px;
   text-align: center;
 }
