@@ -45,8 +45,21 @@ header {
   justify-content: center;
   background-color: white;
   max-width: 100%;
+  margin-top: 150px;
 }
-
+.title-ds{
+  display: flex;
+  justify-content: center;
+  margin-top: 75px;
+}
+.ds{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  max-width: 50%;
+  margin-left: 25%;
+  font-size: 22px;
+}
 table{
   border: none;
 }
@@ -66,6 +79,7 @@ footer{
 .card-title{
   display: flex;
   justify-content: center;
+  color: white;
 }
 
 .gallery {
