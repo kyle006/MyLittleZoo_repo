@@ -9,11 +9,17 @@
 }
 @media (max-width:768px){
   nav{
-    flex-direction: column;
     align-items: flex-start;
   }
+  nav ul{
+    display: flex;
+    flex-direction: column;
+  }
+  .imageWithTextRight td{
+    display: flex;
+    flex-direction: row;
+  }
 }
-
 
 nav ul {
   padding: 10px;
@@ -80,6 +86,9 @@ footer{
 .imageWithTextRight{
   padding: 45px;
   ;
+}
+.imageWithTextLeft{
+  padding: 45px;
 }
 .card-title{
   display: flex;
