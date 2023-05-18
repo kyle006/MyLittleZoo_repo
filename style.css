@@ -4,8 +4,8 @@
   justify-content:space-between;
   font-size: 22px;
   padding: 0px;
-  margin-bottom: 40px;
   background-color: white;
+  margin-bottom: 0px;
 }
 @media (max-width:768px){
   nav{
@@ -177,37 +177,8 @@ footer{
 .home-content{
   margin-top: 100px;
 }
-.index{
-    background-image: url("https://p1.pxfuel.com/preview/773/955/819/koala-marsupial-herbivore-arboreal-wildlife-australian.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-}
-.preis-page{
-    background-image: url("https://p1.pxfuel.com/preview/773/955/819/koala-marsupial-herbivore-arboreal-wildlife-australian.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-}
-.preis-page tr,
-td {
-  text-align: center;
-  padding: 50px;
-  font-size: 1.1em;
-  vertical-align: middle;
-}
-.tiere-page{
-    background-image: url("https://p1.pxfuel.com/preview/773/955/819/koala-marsupial-herbivore-arboreal-wildlife-australian.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-}
-.datenschutz{
-  background-color: wheat;
-
-}
 body{
-  background-image: url("https://p1.pxfuel.com/preview/773/955/819/koala-marsupial-herbivore-arboreal-wildlife-australian.jpg");
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/51/Zoo-neuwied-eingang.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
