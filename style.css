@@ -177,3 +177,32 @@ footer{
 .home-content{
   margin-top: 100px;
 }
+.index{
+    background-image: url("https://p1.pxfuel.com/preview/773/955/819/koala-marsupial-herbivore-arboreal-wildlife-australian.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.preis-page{
+    background-image: url("https://p1.pxfuel.com/preview/773/955/819/koala-marsupial-herbivore-arboreal-wildlife-australian.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.preis-page tr,
+td {
+  text-align: center;
+  padding: 50px;
+  font-size: 1.1em;
+  vertical-align: middle;
+}
+.tiere-page{
+    background-image: url("https://p1.pxfuel.com/preview/773/955/819/koala-marsupial-herbivore-arboreal-wildlife-australian.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.datenschutz{
+  background-color: wheat;
+
+}
