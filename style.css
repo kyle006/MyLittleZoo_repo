@@ -51,7 +51,7 @@ header {
   justify-content: center;
   background-color: white;
   max-width: 100%;
-  margin-top: 150px;
+  margin-top: 80px;
 }
 .title-ds{
   display: flex;
@@ -136,6 +136,10 @@ footer{
   margin-top: 30px;
   width: 100%;
   margin-bottom: 50px;
+}
+.price-table td{
+  background-color: white;
+  border: solid 1px black;
 }
 .bild-big{
   height: auto\9;
