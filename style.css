@@ -174,3 +174,6 @@ footer{
   transition-duration: 300ms;
   transform: scale(1.4);
 }
+.home-content{
+  margin-top: 100px;
+}
