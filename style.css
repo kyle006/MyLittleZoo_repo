@@ -167,5 +167,5 @@ footer{
 .intrestCard:hover {
   box-shadow: 0 0 35px black;
   transition-duration: 300ms;
-  transform: scale(1.05);
+  transform: scale(1.4);
 }
