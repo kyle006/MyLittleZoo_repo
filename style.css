@@ -57,17 +57,20 @@ header {
   display: flex;
   justify-content: center;
   margin-top: 75px;
+  background-color: white;
 }
 .ds{
-  display: flex;
+  
   text-align: center;
   justify-content: center;
   max-width: 50%;
   margin-left: 25%;
   font-size: 22px;
+  background-color: white;
 }
 .Impressum{
   text-align: center;
+  background-color: white;
   
 }
 table{
